@@ -1,0 +1,16 @@
+# N|nombre corto (≤6, panel derecho)|nombre largo (frases)
+1|Diario|un diario
+2|Carta|una carta
+3|Foto|una foto
+4|Prensa|un periódico
+5|Navaja|una navaja
+6|Llaves|un manojo de llaves
+7|Libro|un libro
+8|Abrigo|un abrigo
+9|Docum.|unos documentos
+10|TIME|la revista TIME
+11|Reloj|un reloj
+12|Tenaza|unas tenazas
+13|Whisky|una botella de whisky
+14|Collar|un collar
+15|Ramo|un ramo de flores

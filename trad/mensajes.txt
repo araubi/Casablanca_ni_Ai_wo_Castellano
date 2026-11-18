@@ -1,0 +1,803 @@
+0000|DUMMY
+0006|¡No hagas cosas sin sentido!
+0025|¡De acuerdo!
+002C|No lo llevas, así que no puedes.
+0047|Es el laboratorio del doctor Elgar.
+0062|Delante hay una puerta.
+0077|Abres la puerta y entras.
+0090|Por ahí no se puede ir.
+00A7|Hoy me han dicho que no deje pasar a nadie...
+00D2|La estantería está cerrada. Ábrela.
+00F7|Es una novela de ciencia ficción de H. G. Wells.
+011C|Ya lo has cogido.
+0131|Hay varios cajones.
+014E|Lo registras todo de arriba abajo, pero no hay nada que parezca útil.
+018B|¡Pero si acabas de cogerlo!
+01A8|No notas nada especial.
+01D3|Déjate de bromas, por favor.
+01E8|Hace un rato que llevaron el cadáver del doctor al hospital.
+0211|Está cerrado con llave por dentro.
+022E|Llámame Jack.
+0247|¡No hagas lo mismo tantas veces!
+0266|La puerta está abierta.
+0279|Si no abres la puerta, no puedes entrar.
+0296|¿No te parece de mala educación ir abriendo puertas ajenas?
+02C5|No creo que sea momento para eso.
+02F0|Si haces eso, lo perderás.
+0311|Ya lo has preguntado antes. ¿No te acuerdas?
+0336|Hay que ajustar los números del contador con el dial.
+036D|Desde aquí no se ve bien.
+0388|/Con un pitido agudo, toda la máquina empieza a vibrar. Parece que se ha puesto en marcha.
+03D1|¿Cómo lo combinas?
+03E6|El cajón está cerrado.
+0401|Todo son libros que no entiendes en absoluto.
+0422|No repitas lo mismo tantas veces, por favor.
+0445|¿Te parece momento para tomárselo con tanta calma?
+046C|¡Oye! Por más que mires, sigue igual.
+048B|¡De acuerdo! Has ajustado el contador.
+04AA|¿Entrar en la máquina?
+04B9|¡Eso es peligroso!
+04CA|Estás delante de la casa. Enfrente hay una puerta.
+04F1|El camino sube hasta la cima de la colina. Hace un día apacible.
+0524|/Estás dentro de la máquina. A tu alrededor se oyen zumbidos y chasquidos. Delante tienes un gran interruptor.
+058D|Se ha enfadado y se ha metido dentro.
+05AC|El contador sigue como lo ajustaste antes.
+05CF|¡Mira bien el dibujo!
+05E2|Está cerrada con llave y no se abre.
+0603|¡Eso ya lo has hecho antes!
+061E|¡De acuerdo! Has abierto la cerradura.
+0637|¿A quién le dices qué?
+064C|No me pregunte lo mismo una y otra vez.
+0671|/Hay dos puertas: escribe la dirección por la que quieres ir.
+06AD|Hay varias prendas colgadas.
+06C8|Al desplegar el abrigo ves que está empapado de sangre.
+06F9|/Una vibración tremenda. ¿Eh? De repente todo se ilumina delante de ti.
+0735|/¿Eh? Algo va mal. Cada vez hace más calor. Parece que te has equivocado al ajustarla. Lo piensas mientras pierdes el conocimiento, pero ya es demasiado tarde.
+07B2|Es una revista llamada TIME.
+07C9|Estás delante de una casa abandonada. Parece que hace mucho tiempo que nadie la usa.
+0800|Delante hay un estante. Hay algo encima.
+082F|No parece que tenga mucho que ver.
+0848|Hablando claro: eso no está a tu alcance.
+086D|No parece necesario.
+0886|Está abierto.
+0895|La caja de herramientas está cerrada.
+08AE|Lo siento, ahora mismo no puedo soltar lo que tengo entre manos.
+08D5|Estoy muy ocupado. Otra vez lo mismo...
+0900|/«Si busca al doctor Elgar, tiene el laboratorio en la cima de la colina, aquí detrás. Pero no le gusta la gente, así que no creo que le reciba. Hasta ha cortado el camino.» Al enseñarle el periódico, deja lo que estaba haciendo y te lo cuenta.
+09C9|¿Quién es?
+09DC|No tengo la llave de aquí.
+09F7|Es algo muy corriente. No tiene nada de especial.
+0A26|Ella solo asiente con dulzura.
+0A4F|¿Otra vez por aquí?
+0A62|¿Qué desea?
+0A75|/¿Cómo ajustas el dial? El dial es un número de ocho cifras.
+0AB3|¡El dial es un número de ocho cifras!
+0AD0|Sigue hacia donde quieras ir.
+0AF3|Está cerrado.
+0B04|Estás mirando al oeste.
+0B1F|Estás mirando al este.
+0B3A|Estás mirando al sur.
+0B55|La puerta está cerrada.
+0B6C|Llamas a la puerta y una voz dice desde dentro: «Adelante».
+0BA7|¡Si haces eso aquí, seguro que te arrepientes!
+0BDA|No bebo.
+0BEB|No me interesa.
+0BFE|¿Qué es esto?
+0C11|No creo que sirva de nada enseñárselo a esta persona.
+0C3C|¿Qué es eso?
+0C49|Eso no me hace falta.
+0C60|¿Y qué pretendes enseñándome eso?
+0C8B|¿Qué es eso, muchacho?
+0C9C|No sé leer cosas tan complicadas.
+0CB9|Cuide bien sus cosas.
+0CD0|Algún día lo entenderá...
+0CE9|Ella se limita a sonreír con dulzura.
+0D0C|A mí lo de las letras no se me da bien.
+0D21|Eso no va conmigo.
+0D36|¿Qué? ¿Qué pretendes enseñarme?
+0D55|No se quede ahí, pase, por favor.
+0D84|Nadie contesta. Puede que no haya nadie.
+0DA9|¿Qué es eso?
+0DBE|Son cosas mías... de cuando ya esté muerto, ¿verdad?
+0DD7|¿Tiene algo que ver conmigo?
+0DF0|¿Dónde demonios ha encontrado eso...?
+0E0D|No leo mucho, la verdad.
+0E22|¡Vaya! Llevas algo bueno, ¿eh?
+0E47|Menudo reloj.
+0E58|Me llamo John Rockhops. Un nombre raro, ¿verdad?
+0E83|Por favor, ahora estoy ocupado. ¿Puedes volver más tarde?
+0EB2|En esta época el crimen todavía no ha ocurrido.
+0EDF|¿Qué es eso?
+0EF2|Parece un libro muy interesante.
+0F0B|¡Ah! Había una carta entre las páginas del libro.
+0F34|Es una casa de aire rústico.
+0F4D|Lo que ves es lo que hay.
+0F5E|Con la estación, está todo verde y frondoso.
+0F7D|Qué desconfiado eres. No me gusta.
+0F98|¡Qué... qué brusco!
+0FB1|¡Siempre queriendo romperlo todo! ¿En qué aventura has aprendido eso?
+0FEA|Está despejado; hace un día espléndido.
+100D|Déjalo como está, por favor.
+102A|Es una casa elegante y preciosa, aunque de construcción algo peculiar.
+105F|Ahí no se puede entrar.
+107E|¿Son ustedes? Adelante.
+1097|/Marsha niega con la cabeza sin que el doctor se dé cuenta. Será mejor esconder la carta.
+10F4|Prometiste no abrir el sobre hasta el final. Las promesas se cumplen.
+1129|Venga, entra de una vez.
+1140|Se ve la colina de atrás. Fuera hace un día estupendo.
+116B|El libro de la mesa no parece importante. No lo necesitas.
+119E|Él también está aquí. Hablemos dentro.
+11C3|Ni que fueras de la policía... Eso es pasarse.
+11EC|¿Dónde está? El armario está cerrado.
+1213|Kenny Nichols, encantado.
+1230|Si haces eso, te dolerá la barriga.
+1257|Desde aquí no puedes.
+126C|No tienes tanto dinero, así que no puedes.
+1293|Es para vender, ¿no?
+12A4|Si sigues haciendo esas cosas, caerás mal a todos.
+12CB|Hay unas huellas muy marcadas. Parecen de hombre.
+1300|/Hay muchos contadores en fila y sus agujas se mueven levemente.
+133E|Está hecha para poder subirse a la máquina.
+135F|Es una bobina complicada. Debe de gastar mucha electricidad.
+1392|Parece un banco para dos personas.
+13AD|Están colocados en fila alrededor de la máquina.
+13CE|Más allá no hay nada en especial.
+13EF|¿Y qué piensas conseguir con eso?
+1418|Nada en especial.
+1423|En 1945 es la casa donde estaba el laboratorio del doctor.
+144C|Si te riñen por hacer eso, allá tú.
+1475|¡Ánimo! No hay tiempo para descansos.
+1494|No creo que haga falta.
+14AD|¡Basta! ¡Bruto!
+14C6|No mire mucho la casa, que está sucia...
+14F1|¿Se puede saber qué pretende hacer?
+1510|Hay una mujer con la barriga muy abultada.
+152B|¿Dónde?
+153C|¿Y si te acercas un poco más?
+1555|Es un edificio de la granja. No hay nada en especial.
+157A|Por ahí no parece haber nada.
+1597|/Si no te falla la memoria, hasta los arañazos y manchas más pequeños son los mismos de aquel día.
+15D1|¿Dónde ves tú eso?
+15EC|Más allá está el final del pueblo. No hay nada.
+1613|¿Quién es ese?
+1624|¿Eh? Últimamente se me olvidan mucho las cosas.
+1647|En esta época todavía no ha nacido.
+166A|No hubo respuesta.
+1685|Basta. Eso es una falta de respeto.
+16AE|Está oscuro y no se puede usar bien.
+16C7|/«¡Es peligroso! ¡No entre!» Reynolds llega corriendo, alarmado.
+170C|Es que he dejado la bebida...
+1727|Bueno, un poquito... Le acepto uno.
+174C|¡De acuerdo! Pero Reynolds te mira preocupado.
+1779|/Lo siento. Ya no me queda tiempo. Nos volveremos a ver dentro de tres años. Eso sí, para entonces yo todavía seré un bebé...
+17EC|/«Ya no me queda tiempo. Si va a esa habitación, lo entenderá.» Parece que tiene prisa.
+1845|¡Qué hace! ¡Voy a llamar a la policía!
+186C|¿Y si lo coges?
+187F|/Está lleno de fórmulas y símbolos complicados. No entiendes nada. Seguramente tiene que ver con las investigaciones del doctor.
+18EC|Parece que ya puedes leer la carta.
+190D|La carta está cerrada.
+1926|¿De quién será la carta? Va dirigida al doctor Elgar.
+195D|La carta está escrita en alemán y no puedes leerla.
+198C|La sangre del abrigo parece de salpicaduras. Ocupa una zona bastante grande.
+19C7|El modelo parece antiguo, pero la navaja en sí parece nueva.
+19F6|/Varias llaves unidas en un manojo. Las hay de todo tipo, de las más viejas a las más nuevas.
+1A49|/Es el diario de May Elgar. En él, como un mensaje para Jerry, cuenta que el ejército va detrás de las investigaciones del doctor Elgar y que, por eso, a ella misma también la acechan.
+1AF7|/Está arrugado porque lo tiraron hecho una bola. Parece un periódico local de poca tirada, pero lo curioso es que lleva fecha de hace treinta años: 15 de junio de 1916.
+1B93|/Es una noticia pequeña: habla de la publicación de una teoría sobre el tiempo. El redactor es Kenny Nichols.
+1C04|El especial trata de la política y la situación mundial tras la Primera Guerra Mundial.
+1C2D|Es un reloj de bolsillo de oro. Por algún motivo, las agujas están paradas.
+1C60|Es un reloj que parece muy caro.
+1C79|Está vacía porque te la bebiste antes.
+1C92|Es whisky. Está cubierta de polvo.
+1CBB|Te lo bebiste antes, ¿no?
+1CD2|¿Eh? ¿Puedo bebérmelo? Glu, glu.
+1CF7|/Es un pequeño collar de plata en forma de corazón. Se puede abrir.
+1D35|/Dentro hay una foto tuya con May Elgar el día que acabasteis el instituto.
+1D84|Es un ramo de flores precioso. Huele muy bien.
+1DAD|Más que una montaña, es una loma. Parece buen sitio para un pícnic.
+1DE2|¡No te rindas tan pronto! Solo cuenta el esfuerzo.
+1E03|Sí, a dormir.
+1E12|Por hoy, por mucho que sigas, será lo mismo. GRABA la partida y vete a dormir.
+1E47|¡Piénsalo tú solo!
+1E5A|Ja, ja, ja. Eso lo serás tú...
+1E85|Está bien investigarlo todo. Sí, señor.
+1EA8|La señorita no está en casa...
+1ED1|¿Se puede saber qué quiere?
+1EEC|Sí, ¿quién es?
+1F09|Eso ya me lo ha preguntado.
+1F20|¿Es usted amigo de la señorita?
+1F3F|Me llamo Reynolds.
+1F56|¿De verdad? ¡Qué horror! Pase, por favor.
+1F79|No puede ser...
+1F8C|Espero que la señorita esté sana y salva...
+1FB7|¿¡La señorita ha desaparecido!? Pase, pase.
+1FE6|¿Quiénes son ustedes?
+2005|Te atiende el ayudante del doctor.
+2028|Basta, por favor. No tengo esas aficiones.
+2057|Parece la letra del doctor, pero el alemán no lo domino.
+2082|Es la señorita.
+2095|¿Qué es esto? Un periódico viejísimo.
+20B6|Con esto al doctor... Qué horror.
+20D9|El doctor tenía la costumbre de guardar todas sus llaves viejas.
+2108|/Como el doctor era un exiliado, la política le interesaba.
+2151|Buen reloj.
+2162|Es lo que había en la caja de herramientas. ¿Tiene algo que ver con el crimen?
+218F|Tengo treinta y cinco años.
+219C|Soy su ayudante de investigación.
+21B5|Era una buena persona.
+21C4|Está en el laboratorio. Hoy no recibe a nadie.
+21FF|Raptar a la señorita... No puede ser...
+2220|La señorita no está en casa.
+2245|Hoy es día 15.
+2258|El doctor investigaba cómo controlar el tiempo.
+2285|Parece que no te escucha.
+229E|¿Le parece bien?
+22AF|¿Qué haces? ¡No entres sin permiso!
+22D4|Es una bonita pared encalada.
+22ED|Parece una persona nerviosa. Te está mirando.
+2318|/Por desgracia, has perdido la vida en un accidente. Apaga el ordenador y vuelve a empezar la partida.
+238D|A la izquierda está el laboratorio; al otro lado del camino, a la derecha, se ven dos casas y la colina de atrás.
+23CA|/Estás en el salón. Hay puertas delante y a la izquierda, y una escalera a la derecha.
+2408|¿De verdad? ¡Qué horror! Pase, por favor.
+242B|Lleva al piso de arriba.
+2440|¿Quieres que diga «El crimen del ojo de la cerradura», ya a la venta?
+246F|/Es la habitación del doctor Elgar. Hay una mesa y una estantería, y por la ventana se ve la colina de atrás.
+24B4|Ya abriste la estantería antes.
+24CF|/¡De acuerdo! Abres la estantería. Hay muchos libros en fila. Todos parecen difíciles.
+2520|Dentro hay una revista.
+2535|¡Vaya! También hay novelas.
+2550|¿Qué libro coges?
+2567|¡De acuerdo! Coges la novela.
+2580|¡De acuerdo! Coges la revista.
+2599|Es una silla maciza.
+25B2|/Es la habitación de May Elgar. Hay una mesa y una cama, y por la ventana se ve la colina de atrás.
+25F9|En el cajón hay una foto enmarcada.
+2622|/Es el laboratorio del doctor. Hay una gran máquina y una puerta que da al jardín. El cadáver ya se lo han llevado al hospital.
+267F|/Es el laboratorio. El doctor está tendido en el suelo; a su lado hay una gran máquina extraña y una puerta que da al jardín trasero.
+26DA|/No hay duda: es el doctor Elgar. Está muerto, con una navaja clavada en el pecho. Lo raro es que no parece haberse resistido. Además, su cara muerta tiene una expresión serena.
+276E|Parece que la limpiaron al llevarse al doctor.
+2797|/Sale a borbotones de la herida. Seguro que al asesino le salpicó la sangre.
+27EA|En el bolsillo del cadáver hay un manojo de llaves.
+280F|Eso es trabajo de la policía.
+282E|Coges la navaja.
+2843|Coges el manojo de llaves.
+2858|Parece que da al jardín trasero.
+2875|El doctor está tendido en el suelo. A su alrededor hay mucha sangre.
+28AC|Es el jardín trasero del laboratorio. Enfrente se ve la colina.
+28DD|Hay huellas.
+28F2|Las huellas van de la colina al laboratorio. Seguramente las dejó el asesino, pero lo raro es que no hay huellas que salgan del laboratorio.
+296B|Vienen de lo alto de la colina.
+2984|Es una caja de herramientas de madera.
+299B|Hay una caja de herramientas.
+29AE|Hay una caja de herramientas.
+29C1|Es una caja de herramientas de madera.
+29D8|Es una caja de herramientas de madera.
+29EF|Hay unas tenazas.
+2A02|Es una caja de herramientas de madera.
+2A19|Es una caja de herramientas de madera.
+2A30|Desde aquí, la verdad...
+2A4B|Es la cima de la colina. Hay un pequeño estanque rodeado de árboles frondosos.
+2A80|¡Vaya! Aquí hay un periódico hecho una bola.
+2AB3|Lo curioso es que las huellas empiezan de repente a la orilla del estanque. Es como si el asesino hubiera aparecido en el aire.
+2B0C|El agua del estanque está en calma.
+2B29|Crecen tupidos a la orilla del estanque.
+2B52|/Estás dentro de la casa abandonada. Está en penumbra y no se ve bien. Estás mirando al norte.
+2B9A|Es una casa abandonada. Hace mucho que nadie la usa.
+2BC9|Es el estante donde estaba la botella. No hay nada más.
+2BFA|Hay una botella de whisky. Está cubierta de polvo.
+2C23|Está clavada con tablas. No parece importante.
+2C4E|Coges la botella.
+2C61|Parece una casa vieja, pero está bien cuidada.
+2C8C|¿Quién anda ahí, metiéndose en casa ajena?
+2CB5|No hagas tonterías.
+2CCA|¿Otra vez vosotros?
+2CDF|¿Qué pasa? ¿Querías algo de mí?
+2CFC|No hace falta que lo repitas tanto.
+2D13|¿Y qué pasa con eso?
+2D2A|¡Menudo sinvergüenza!
+2D35|¿Qué? ¿Es eso verdad? Con lo buena persona que era.
+2D5C|Vaya carta más rara.
+2D73|Es May. La hija del doctor.
+2D8A|Un periódico viejísimo... Sí que guardáis las cosas.
+2DB9|Buena navaja, ¿eh?
+2DD0|Yo de eso no entiendo.
+2DE3|Son unas tenazas normales. ¿Tienen algo especial?
+2E02|En mi casa no hay más que mi vieja.
+2E1F|Sesenta y dos.
+2E28|Eres el primero que no se aprende mi nombre a la primera.
+2E51|Me gusta mucho fumar. Esta pipa ya la tengo desde hace treinta años.
+2E8E|¿Por qué él...?
+2EA1|Es alemán, pero es buena gente.
+2EC2|Trabajo en el rancho. Vamos, lo que antes se llamaba un vaquero.
+2EFB|Solo tiene padre, pero es una chica alegre.
+2F12|¿Qué dices? Hoy es 15 de junio.
+2F35|Parece que no te ha oído. Estará un poco sordo.
+2F64|¡Eh! ¡Si está vacía! No te burles de mí.
+2F87|¡Esto sí que es bueno! Gracias.
+2FA4|¿De verdad? Gracias.
+2FC1|¡Qué haces! No cojas lo que no es tuyo.
+2FE0|Seguro que al dueño le encantan las plantas.
+300D|Está negra y brillante. Debe de tener muchos años.
+3032|Es un hombre corpulento. Lleva una pipa en la mano.
+3065|Hay un hombre. Te está mirando.
+308E|¿Te ha servido de algo?
+309F|Eso es un poco grosero, ¿no?
+30BA|/A la izquierda está el laboratorio; al otro lado del camino, a la derecha, se ve una casa abandonada. Enfrente se ve la colina.
+310F|La puerta está rota. Parece que se puede entrar.
+313C|La puerta está clavada con tablas.
+3159|Hace falta alguna herramienta.
+316E|Está rota. Parece que se puede entrar.
+318D|Está bien clavada con tablas.
+31AE|¿Por qué no entras?
+31B9|¿Y si entras de alguna manera?
+31D0|Está bastante destrozado.
+31E5|La puerta está clavada con tablas y no se puede entrar.
+320E|/Estás delante de una casa. No es muy grande, pero tiene un aire tranquilo.
+3255|¿Todavía quieren algo de mí?
+326A|Sí, ¿qué desean?
+327F|Eso ya me lo han preguntado.
+329A|Pero ¿quiénes son ustedes...?
+32B3|No es que sospeche de ustedes.
+32D4|Ya se lo he dicho antes. Acuérdense, por favor.
+32FF|¡Me pone en un aprieto!
+330A|Esto va a acabar hablando de novelas.
+3323|¿De dónde han sacado un periódico tan viejo?
+3346|Me gustan las novelas de este autor.
+3361|Leo a menudo el TIME.
+337A|Es de oro. ¿Pasa algo con él?
+3393|Qué bonito.
+33A2|Es suyo, ¿no? Cuídelo bien.
+33C5|Qué flores tan bonitas. ¿Ya estamos en esa época?
+33EE|Tengo treinta y cuatro años.
+33FB|/Ja, ja, ja. ¿Vienen de un viaje en el tiempo o qué? Hoy es 15 de junio de 1945.
+3444|/Trabajo en una agencia de publicidad escribiendo anuncios. Ahora estoy aquí escribiendo un relato para presentarlo a la revista de misterio de Ellery Queen. Este sitio es una maravilla; algún día pienso escribir una novela inspirada en este lugar.
+350D|Es que yo no soy de aquí...
+3532|Tengo que escribir el manuscrito... Disculpen.
+3559|¡Vaya! Está vacía.
+3566|Vaya, muchas gracias.
+3577|¡Gracias!
+3584|Yo también tenía uno.
+359F|De nada.
+35B2|Es un hombre de aspecto intelectual.
+35CD|Hay un hombre de aspecto inteligente.
+35E4|¡Qué haces! No te he dicho que entres.
+3609|/Estás delante de una floristería. Por ser la estación, hay macetas con flores de todos los colores. El dueño de la tienda te está mirando.
+3666|¡Qué haces! Que lo estoy leyendo...
+368D|Ya soy viejo para eso. Déjalo.
+36AC|Eso es terrible.
+36BD|/La conozco desde que era pequeña. Ojalá esté bien...
+36F7|Vale, vale.
+370C|Es que me estoy volviendo olvidadizo. ¿Me lo repites?
+3739|Es May Elgar. Una buena chica.
+3758|Es un periódico viejo, ¿eh?
+3769|/¡Vaya! Esta navaja es de la casa S&D. Era una buena navaja, pero la empresa quebró hace unos diez años, así que ya no se vende.
+37E4|Esto sí que es bueno.
+37FD|Hazme caso: deja la bebida.
+3820|¿Qué tal? Mis flores son preciosas, ¿eh? Las cuido con toda mi alma.
+3859|Este año cumplo setenta.
+386C|Pobre...
+3885|Es buena persona, pero un alemán muy estirado.
+38A8|Ya te lo he dicho. Llámame Tom.
+38C7|Thomas Gordon. Un humilde florista.
+38EE|Es una chica de buen corazón.
+3907|Estamos en junio. Pronto florecerán.
+392E|Como ves, vendo plantas.
+394D|Lo dejé desde que enfermé.
+396A|¡Pero si es lo que te devolví antes! ¿No lo quieres?
+3993|«¿De verdad me lo das?» En agradecimiento, te regala un ramo de flores.
+39CA|Ya te devolví el reloj, ¿no? Si no lo quieres, devuélvemelo.
+39FB|/Te ha dado pena perder el reloj de antes, ¿eh? Bueno, vale. Te devuelvo el reloj. Y os regalo también el ramo.
+3A5A|No hay muchas, pero parecen bien cuidadas.
+3A7D|Te está mirando. Parece bastante mayor.
+3AAA|Es una tienda pequeña. Parece que la lleva por afición.
+3AD3|Es una mecedora. Parece cómoda.
+3B00|Pone «Floristería».
+3B19|Lo está leyendo el viejo.
+3B32|No hay de qué. Ha sido un placer.
+3B4D|/Estás al oeste del laboratorio. Un poco más lejos, a la izquierda, se ve una casa elegante, y enfrente, parte de la colina.
+3BB2|/Estás al oeste del laboratorio. A la izquierda hay una casa de aspecto elegante y a la derecha, la ventana del laboratorio.
+3BFF|/¡Ah! ¡Qué horror! El doctor está tendido en el suelo, cubierto de sangre. ¡Hay que avisar a Reynolds del crimen cuanto antes!
+3C5A|/La cortina está echada. Por la rendija casi se podría ver el interior...
+3CB1|¡Hay que avisar del crimen cuanto antes!
+3CCC|/Hay una anciana en una silla de ruedas. Te mira con ojos bondadosos.
+3D13|Cuide bien el reloj.
+3D30|/«Qué colgante tan bonito. Seguro que les traerá suerte. Cuídenlo bien. Por cierto, les voy a dar algo bueno.» Y diciendo esto, te da un reloj. Su dulce expresión te deja impresionado.
+3DEF|¡Oh! Vayan con cuidado.
+3E0C|Ay, qué bonitas. Qué bien huelen.
+3E2F|A mi edad...
+3E44|Hoy es 15 de junio de 1945.
+3E67|Es una anciana distinguida. Te mira con ojos bondadosos.
+3E9A|Es una silla normal. Debe de estar mal de las piernas.
+3EC5|No pasa nada. No se preocupe...
+3EE2|/Es una foto de May Elgar a los diecisiete o dieciocho años. Debieron de hacerla cuando acabó el instituto.
+3F39|/Es una máquina enorme. Dentro hay un asiento y cabe una persona. Por fuera tiene muchos interruptores, y a la izquierda de la entrada hay algo parecido a un dial y un contador.
+3FD7|El contador marca 19160615.
+4006|/El contador marca un número de ocho cifras: 19450615.
+4044|/En cuanto lo piensas, los dos salís despedidos sobre la hierba. ¿Dónde estáis? Enfrente se ve la misma colina de antes, pero algo es distinto.
+40C8|Estás en un prado. Enfrente se ve la colina.
+40F1|Ante ti se extiende un prado apacible. Se ve la falda de la colina.
+4128|Hace un día apacible. Al pie de la colina, enfrente, se extiende un prado.
+415F|/Hace un día muy apacible. El camino sigue hacia el norte, el sur y el este. A la derecha se ve una casa.
+41AA|Hay una tienda. En el letrero pone «Ferretería».
+41DB|Parece que la tienda está abierta.
+41F4|En el letrero hay dibujadas unas tijeras.
+421D|Es una ferretería. Parece que vende sobre todo cuchillería.
+4248|¿Por qué no entras?
+4253|Estás dentro de la tienda. El dueño te está mirando.
+428C|/Esto es de S&D. Se vende mucho. El otro día, sin ir más lejos, Elgar se llevó una igual.
+42E9|/A esta la conozco. Es Marsha Evans, vive un poco más allá. ¿Eh? ¿Llevaba ella el pelo así?
+434E|¡Eh! ¿Qué haces?
+4363|Ya me lo has preguntado.
+4374|Tú no eres de por aquí, ¿verdad?
+4389|¿Qué es esto? ¡Si tiene sangre!
+43B8|Esto sí que es bueno. ¿Dónde lo has conseguido?
+43D9|En mi tienda también los vendo.
+43EE|Aunque no lo parezca, se me dan bien las flores. A ver... Están muy lozanas, ¿eh?
+4431|Voy a cumplir cuarenta y uno.
+443E|A ver si te aprendes ya mi nombre.
+445D|Soy Tom. Thomas Gordon.
+447A|Es el que vive en lo alto de la colina. Tan joven y tan serio.
+44A3|¿No lo ves?
+44B8|Es la hija de los Evans. Viven ahí mismo.
+44DB|/Qué tonto. Hoy es 15 de junio... ¿Eh? ¿El año? ¡Pues 1916, qué va a ser!
+4525|¿De verdad? Te lo agradezco.
+453A|Yo los vendo, ¿sabes?
+454F|Hay navajas y otros artículos.
+4576|Hay artículos de la tienda colgados.
+4593|Es el dueño de la tienda. Tiene pinta de malas pulgas.
+45B8|No te preocupes. A ver si la próxima vez compras algo.
+45DF|«No tengo nada que hablar con vosotros. Largo.» Se oye una voz dentro.
+460E|¿Otra vez vosotros?
+461F|¿Qué queréis?
+462A|¡No lo repitas tantas veces!
+4639|¿Y qué?
+464A|¡Qué pesados! Ya os lo he dicho: largo.
+4671|Qué remedio. Me llamo Jeff.
+4692|¿Por qué tengo que deciros mi nombre?
+46AB|¡Ya está bien, hombre!
+46C4|¿Quién es esta? Ah, la chica de enfrente.
+46E3|¿Qué pasa con el periódico?
+46F4|¿Qué pretendes hacer?
+470D|¿Qué piensas hacer?
+4720|Hum, no está mal.
+473B|Hum.
+4744|No tengo por qué decírtelo.
+4759|¡Y a ti qué te importa!
+4770|Es la casa de enfrente.
+4781|¿Te estás burlando de mí?
+4798|Qué gente más pesada.
+47A9|Es una bonita pared encalada.
+47C2|Parece una persona irritable. Está refunfuñando.
+47F1|Es un hombre con cara de pocos amigos.
+4806|Ya.
+480D|¡Menuda gente!
+481C|El camino sigue hacia el norte y el oeste. A ambos lados del camino hay casas.
+4855|¿Por qué no vas?
+4864|/«Muchísimas gracias. Han venido en la máquina que él tendrá dentro de treinta años, ¿verdad? Él me lo ha contado todo. Aquí he escrito lo que nos pasó. Pero léanlo cuando hayan vuelto a su época, por favor.» Y dicho esto, te da una carta.
+4941|/Este es el abrigo de Elgar. ¡Ah! ¡Sangre...! Él está aquí ahora mismo. ¿Ha hecho algo? Desde ayer se comporta de forma extraña. Pasen, por favor.
+49DD|¿Qué significa esto? ¿Quiénes son ustedes?
+4A0E|No hay respuesta.
+4A23|Eso ya me lo han preguntado.
+4A40|¿Querían algo de mí...?
+4A51|Me llamo Marsha Evans.
+4A70|/«¿Cómo?» Parece que algo le viene a la cabeza; pone cara de preocupación.
+4ABF|¿De quién será este diario?
+4AD0|Yo no sé leerlo. Pero él...
+4AF5|/¿Eh? Soy yo... Pero si nunca me he peinado así.
+4B2D|Ah, es el periódico donde escribe Kenny.
+4B4C|Me da miedo. Llevar una navaja es peligroso.
+4B7B|Esto es un poco difícil para mí.
+4B98|Ay, qué colgante tan bonito.
+4BB3|Qué flores tan bonitas.
+4BCA|Tengo diecisiete años.
+4BD9|Vive aquí al lado. Somos amigos desde niños.
+4BFA|Cuando acabe los estudios, me casaré con él.
+4C21|Soy estudiante.
+4C2A|Soy yo.
+4C35|Qué raro es usted. Hoy es 15 de junio de 1916.
+4C5E|¿Por qué me pregunta eso?
+4C81|«Vaya, gracias.» En agradecimiento, te da un beso.
+4CB0|Es una muchacha encantadora y de aspecto pulcro.
+4CD5|Hay una chica encantadora.
+4CF0|De nada.
+4D03|/Estás en la sala de visitas de la casa de Marsha Evans. Aquí está el joven doctor Elgar.
+4D49|Si no se dan prisa, no podrán volver.
+4D6A|/«Qué ironía, matar para defender el pacifismo. Ah, sí, llévense esto. Les será útil cuando la humanidad haya madurado.» Y dicho esto, te entrega unos documentos.
+4E08|Esto es algo que compré hace tiempo...
+4E2F|/Ya saben cómo ajustar el dial, ¿verdad? Si se equivocan, puede pasar algo terrible, así que tengan cuidado.
+4E8A|/El doctor Elgar termina de leer la carta y levanta la vista: «Así que vienen ustedes de 1945. Entonces han venido siguiendo al asesino que me matará dentro de treinta años. Ya lo habrán adivinado... El que lo mató lo tienen delante. Sí: soy yo.
+4F7F|/Llevo mucho tiempo investigando cómo controlar el tiempo. Y hace poco terminé por fin el prototipo. Ya había demostrado la teoría con experimentos con animales; solo faltaba que yo mismo hiciera de conejillo de Indias. Sin pensarlo mucho, fui a verme a mí mismo treinta años después. Y vi algo que no debía haber visto.
+5068|/Dentro de treinta años, yo colaboraba con el ejército y estaba volviendo a construir esta máquina como arma. Me quedé de piedra, porque mi intención era abandonar esta investigación después del experimento. Temía que la máquina se usara como arma. No sabía qué hacer.
+5153|/Aunque fuera dentro de treinta años, me desesperó ver en qué me había convertido. Después de mucho pensarlo, viajé treinta años hacia el futuro para poner fin a mi vida. Llevé una navaja envuelta en papel de periódico. Como el laboratorio se había trasladado abajo, bajé la colina y di la vuelta hasta el jardín trasero.
+5248|/Pensaba forzar la puerta para entrar en el laboratorio, pero al llegar a la puerta trasera vi que estaba abierta. La abrí con cuidado y miré dentro. Allí estaba yo, treinta años mayor, de espaldas a mí. Apreté la navaja en la mano y me acerqué.
+5331|/Cuando estaba a un metro, de repente se dio la vuelta. Sin pensarlo, bajé la navaja que tenía en alto. Cuando me di cuenta, la navaja estaba clavada hasta el fondo en su pecho y estaba muerto. En ese momento oí voces hacia la puerta, así que corrí a ajustar el contador de la máquina,
+5420|/para volver a mi época, por supuesto. No podía creer lo que veía: el contador ya estaba puesto en el 15 de junio de 1916, justo la fecha a la que yo debía volver. En ese momento me di cuenta de que estaba cometiendo un gran error.
+550D|/Él tenía que conocer su destino mejor que nadie..., porque para él lo que yo hice aquel día ya lo había vivido él mismo treinta años antes. Lo sabía todo y aceptó la muerte. Yo no lo entendía. Hasta que leí la carta.
+5602|/Les leeré la carta. Es una carta mía, de dentro de treinta años.» Y dicho esto, empieza a leerla.
+5665|/«Al joven Elgar: no te atormentes nunca por lo que hagas. ¿No es la vida un escenario maravilloso, y el tiempo un relato lleno de pistas ingeniosas que nos entretiene? Te estaba esperando. Tengo una hija. También es tu hija, claro, pero para mí
+575A|/es lo más valioso del mundo. El ejército la ha secuestrado. Quieren usar mi investigación como arma. Habrás pensado que vendí mi alma al diablo. Las amenazas del ejército son tan astutas que ni siquiera me permiten quitarme la vida. Pero yo tenía una esperanza.
+584D|/Saber que tú vendrías el 15 de junio de 1945, y poner fin a mi vida de mano de mí mismo, treinta años más joven, es la única esperanza y el único orgullo que me quedan. Creo que no he cambiado en nada.» El joven doctor Elgar, tras leernos la carta, levanta la vista: «Gracias.
+5942|/Gracias a que me han traído la carta, no he perdido el orgullo. Destruiré esta investigación en secreto. De verdad, muchas gracias.»
+59C4|/«Ah, sí. Tengo que mandarlos de vuelta... Esta es la llave del laboratorio. Ya saben usar la máquina. Pongan el contador en 15061945. Así podrán volver a su época.» Te da la llave del laboratorio y la metes en el manojo.
+5AB9|¿A qué se refiere?
+5ACC|¿Están ustedes en su sano juicio?
+5AE1|La verdad es lo que les he contado antes.
+5B02|¿Cómo es que... eso?
+5B19|Es el diario de la hija que aún no conozco. Parece que será una chica cariñosa.
+5B4A|¡Así que era eso! Entonces ustedes...
+5B71|¿¡Esta es mi hija!? Se parece a su madre; es preciosa.
+5BA2|¿Eh? Esta foto...
+5BB9|Así que me han seguido por esta fecha.
+5BDA|/Es el periódico local de aquí. Lo dirige un amigo mío, Kenny. Vive un poco más allá.
+5C25|Se parece mucho al mío.
+5C40|Es de ciencia ficción. Leo mucho.
+5C5D|Con esto puesto fui a 1945.
+5C82|Confío en su sensatez.
+5CA1|Qué flores tan bonitas. Le reconfortan a uno.
+5CC8|Tengo veintiocho años.
+5CD5|Ya se lo he dicho. Soy Elgar.
+5CFC|Elgar. Kurtz von Elgar.
+5D23|Soy científico. Mi trabajo es investigar, experimentar y escribir artículos.
+5D5C|Investigo el control del tiempo.
+5D7F|Pienso casarme con ella.
+5D9C|Exactamente treinta años antes de su época.
+5DC7|¿Qué quiere decir?
+5DDA|Parece que todavía no domina el idioma. No se entiende bien.
+5E0D|Yo ya no lo necesito.
+5E2A|No olvidaré sus nombres en toda mi vida.
+5E4B|Ya lo he oído.
+5E58|¿Qué desean?
+5E63|Te mira fijamente. Escucha con atención lo que dices.
+5EA0|Es un hombre de rasgos finos. Parece inteligente.
+5EC7|Es una habitación de ambiente tranquilo.
+5EE2|No, soy yo quien tiene que darles las gracias.
+5F13|¿Les he sido de ayuda?
+5F28|¡Qué haces! ¡Que me lo acabo de comprar!
+5F4B|Me lo compré ayer. Bonito, ¿eh?
+5F68|¿Otra vez vosotros? ¿Qué pasa ahora?
+5F85|¿Quién es?
+5F8E|Ya lo he oído.
+5F99|Hum, ¿y qué?
+5FAA|No preguntéis tantas veces. Qué gente más rara.
+5FC9|¡Vaya! Esto sí que se agradece. Me lo quedo.
+5FF0|/Si buscáis a Marsha, vive en la casa de al lado. Para que salga, hay que llamar tres veces a la puerta.
+603D|Marsha vive al lado.
+6054|¡Quieres parar, hombre!
+6067|¿En qué idioma está escrito?
+6080|¿Qué pasa con el periódico de hoy?
+6093|Buena navaja.
+60A4|No lo había visto nunca.
+60B5|¿Qué me vas a...? ¡Eh! Sangre.
+60CE|No entiendo nada.
+60E1|Un libro difícil.
+60F4|¿Qué pasa con las tenazas?
+6107|A mí no me sirve de nada, aunque me lo deis.
+6132|Treinta y tres.
+613B|Trabajo en el rancho.
+6152|Es alemán. Se mudó aquí hace unos dos años.
+617B|Vive aquí al lado. Es la hija de los Evans.
+61A6|¿No estarás mal de la cabeza?
+61C1|Parece que no estaba escuchando.
+61DA|Muchas gracias. ¿Seguro que no os importa...?
+61FD|¿De verdad? ¡Gracias!
+621A|Parece una pipa nueva.
+6233|Es un hombre fornido. Lleva una pipa.
+625E|Hay un hombre con una pipa.
+627B|Hoy por ti, mañana por mí.
+6292|¡Eh, eh! ¿Qué haces?
+62AB|El camino sube a la colina. A la derecha hay una casa.
+62DC|¿Por qué no entras?
+62EB|Hay una valla para que nadie pueda pasar.
+6310|Hay colgado un cartel que dice «Prohibido el paso».
+633B|En una tabla pone «Prohibido el paso».
+6362|Hay una valla y no se puede pasar.
+637D|¿Todavía estáis investigando algo?
+6396|¿Qué hacéis? Pasad de una vez.
+63B3|/Ah, sois vosotros. Os estaba esperando, quería proponeros algo. Pasad.
+63EB|Sí, ¿qué pasa?
+63F8|Ya lo sé. Quiero proponeros algo.
+6415|¿Querían algo de mí? Si puede ser, que sea breve...
+643E|¿Son lectores? Pasen, por favor.
+6463|¿Qué? ¿Qué? ¿Qué?
+6476|¡Idiota! Para.
+6485|En 1945 es la casa abandonada.
+64A4|/Parece que estaba trabajando. Dentro se oye ruido de máquinas.
+64DC|Un hombre ha abierto la puerta y te está mirando.
+6501|Ja, ja, ja. No pasa nada.
+6516|Parecía que teníais prisa. ¿Seguro que tenéis tiempo?
+653B|/«Os estaba esperando. He visto esa revista y como periodistas también sois de primera. (Parece que lo ha entendido mal.) ¿Qué me decís? ¿Montamos un periódico juntos? Con vosotros, hasta en Chicago nos haríamos un nombre.»
+6602|/«No podemos. Te agradecemos la oferta, pero dentro de poco tenemos que volver a un sitio muy lejano», le contestas. «Qué pena... Ya sé, haremos una cosa. Yo esperaré a que volváis. Mientras, montaré la empresa en Chicago.
+66ED|/Pero no lo olvidéis: es una empresa de los tres. Así que quiero que le pongáis vosotros el nombre.» Miras a Jerry. Tiene una sonrisa traviesa en los ojos. Parece que lo ha entendido todo.
+679F|/«¡Casablanca, por supuesto! El Daily Casablanca. No puede llamarse de otra manera.» Mientras Kenny se queda pasmado, los dos os echáis a reír. «Kenny, te lo prometo: volveremos. Es nuestra empresa. Aunque pasen muchos años...»
+6884|/«Pero entonces, haz que podamos reconocerla. Con algún documento o algo así.» «Qué aprensivo. Vale, ya sé: pondré mi retrato en el vestíbulo de la empresa. Detrás del cuadro esconderé un documento que hable de vosotros. No creo que haga falta llegar a tanto, pero
+6979|/si así os quedáis tranquilos, lo haré. Eso sí, volved lo antes posible.» Los dos le dais las gracias a Kenny y os despedís de él.
+69E4|Estás en casa de Kenny Nichols. Hay periódicos a medio hacer por todas partes. Se oye la máquina de imprimir.
+6A47|/Por más veces que mire esta revista, me sigue asombrando. ¿No me la podrían ceder de alguna manera?
+6A90|/Increíble... ¿Esto lo habéis escrito vosotros? Aquí se habla de cosas de dentro de treinta años. Si es una predicción, tenéis una capacidad de análisis tremenda.
+6B16|/¿TIME? No me suena. No parece ser el THE TIMES inglés...
+6B67|/¿De verdad me la dan? Gracias, la guardaré como un tesoro. A ustedes él no les pondrá pegas. La casa del doctor está saliendo por esta puerta, siguiendo el camino.
+6BE2|Documentación ya tengo yo.
+6C01|Eso ya me lo has preguntado.
+6C1A|El doctor Elgar es un hombre muy serio.
+6C3D|¿Habéis podido ver al doctor?
+6C54|A ver si te lo aprendes a la primera.
+6C69|¡Madre mía!
+6C76|/¿Quién es esta May Elgar? ¿Algún pariente del doctor Elgar?
+6CBD|Está en alemán. No sé leerlo.
+6CDA|Es la hija de los Evans. Una buena chica.
+6D07|Guarde eso, que es peligroso.
+6D2C|Wells es muy entretenido.
+6D45|¡Eh! Tiene sangre. ¿Ha pasado algo?
+6D72|/Hay algo parecido a fórmulas matemáticas. Parece difícil. Yo no lo entiendo.
+6DC7|Buen reloj.
+6DD8|Qué flores tan bonitas.
+6DE7|Treinta.
+6DF2|Ya veis: un periodista de pueblo. Pero tengo sueños.
+6E1B|/El doctor Elgar ha publicado una teoría sobre cómo controlar el tiempo. Pero en el mundo académico nadie quiere reconocerla; la ignoran casi por completo. Yo, en cambio, creo que es auténtica.
+6EB3|Montar un gran periódico. Por Chicago, por ejemplo.
+6EDE|Es la casa de enfrente.
+6EEF|Mirad el periódico que lleváis. Es el de hoy.
+6F10|Yo no lo necesito.
+6F29|Si me las das, se me van a secar.
+6F4C|Igualmente.
+6F59|Con el ruido de la máquina no parece haberte oído.
+6F7C|Será la puerta trasera. Por la ventana se ve la colina.
+6FAD|Hay periódicos a medio imprimir.
+6FCE|Será el taller. Está bastante desordenado.
+6FF9|Te atiende mientras sigue trabajando sin parar.
+702A|Ahora mismo lo estoy imprimiendo.
+7041|Ah, por ahí se va al jardín trasero. No hay nada.
+7070|¿Vuelves otra vez? Si ya os habéis despedido.
+709B|Sale Kenny y te deja pasar.
+70C4|Es la puerta trasera de la casa de Kenny.
+70DD|En la cima se ve una casa.
+70F2|Lleva hasta la cima.
+7109|Detrás está la casa de Kenny. La puerta trasera está cerrada.
+7140|Es una casita en la cima de la colina. Hace un día muy apacible.
+7171|Parece una cabaña de montaña.
+718A|Está cerrada con llave.
+71A3|Ya quitaste el cerrojo antes.
+71C0|Hay una cerradura.
+71D3|«El crimen del ojo de la cerradura», ¡ya a la venta!
+71F0|Se abre con llave.
+7203|Estás dentro de la casita de la cima. Parece el salón.
+723A|La llave de aquí no parece estar en el manojo.
+725F|Es un sofá. Parece cómodo.
+7286|Hay un cuadro colgado.
+729B|Es un óleo. No parece importante.
+72BA|Aquí no hay ninguna caja fuerte.
+72D1|Bueno, buen trabajo. Buen trabajo.
+72EA|Esto es el estudio. Hay una mesa y un armario.
+731B|Es un armario empotrado. Es donde se cuelga la ropa.
+734A|Al fondo del armario hay un abrigo hecho una bola.
+736F|La ropa es normal y corriente.
+7384|Es una silla de madera que parece pesada.
+739F|Los libros de la mesa parecen difíciles. No los necesitas.
+73CE|Está metido al fondo del armario, como si alguien lo hubiera escondido.
+73F9|Es el laboratorio. Aquí está la máquina que construyó el joven doctor Elgar.
+742E|/Entras en el laboratorio. El joven doctor Elgar debió de venir a 1945 con esta máquina.
+747D|Hay cosas que parecen piezas de máquina por todas partes.
+74AE|Todo son cosas que no entiendes.
+74CB|/En cuanto lo piensas, notas un ruido tremendo y un calor intenso. Todo se va oscureciendo y los dos perdéis el conocimiento.
+753C|Tiene exactamente la misma forma que la máquina que viste en el laboratorio del doctor.
+7577|El contador marca 15061945.
+75A2|El contador marca un número de ocho cifras: 15061916.
+75DF|/De pronto te das cuenta de que ves un techo. Parece que estás tumbado en una cama. Recuerdas que, al entrar en la máquina del doctor y pulsar el interruptor, hubo una fuerte sacudida y un ruido tremendo, pero no sabes qué pasó después. ¿Habréis vuelto sanos y salvos?
+76D4|/Pero ¿dónde estás...?
+76F0|Estás en una habitación. A la izquierda hay una puerta.
+7719|/El paisaje de la ventana es extraño. Parece el de un pueblo tranquilo.
+776C|Es una buena cama. Parece hecha a mano.
+778F|Están bien confeccionadas. Tienen un aire algo anticuado.
+77B8|Son de algodón grueso. También parecen tejidas a mano.
+77E3|/«Vaya, ¿ya se encuentran bien? Me dieron un susto tremendo. Hubo un ruido enorme y de repente aparecieron en el aire... ¿Qué estaban haciendo?», pregunta una mujer con la barriga muy abultada. Parece que está embarazada.
+78BC|Todavía no deberían andar mucho. Descansen.
+78F1|¿Querían algo más?
+7900|En la pared hay colgado un calendario.
+7923|/En esta época no puede existir la máquina del doctor. Parece que ya no podréis volver a 1945. ¿Y ahora qué hacéis?
+799E|/¡No puede ser! Pone 15 de junio de 1885. ¿Será culpa de la máquina? Parece que habéis viajado otros treinta años al pasado.
+7A19|Me llamo Liza Nichols.
+7A34|Ojalá sea un niño...
+7A51|/«Nacerá el año que viene. Estoy deseando.» Entonces te das cuenta: ella era la madre de Kenny Nichols.
+7ABA|Nacerá el año que viene. Ojalá sea un niño.
+7AE5|¿Le importaría no hacer eso?
+7B0E|¿De quién será este diario? May Elgar... No me suena ese nombre.
+7B41|No entiendo ni una palabra.
+7B58|Qué chica tan guapa.
+7B67|La fecha de este periódico está mal. Estamos en 1885.
+7B9A|No me asuste, por favor.
+7BB1|No conozco a ese escritor.
+7BCA|No entiendo nada.
+7BE3|Qué reloj tan bonito.
+7BF4|Qué colgante tan bonito.
+7C11|Qué ramo tan bonito.
+7C22|Preguntarle la edad a una mujer es de mala educación.
+7C37|Con este cuerpo...
+7C4C|¿De qué me habla?
+7C63|¿Quién es esa persona?
+7C78|El calendario está en esa pared.
+7C9D|No entiendo de cosas complicadas.
+7CBC|Venga, descansen. Lo han pasado muy mal.
+7CE9|De verdad, no se preocupen.
+7D08|No se preocupen. Es lo normal ayudar a quien lo necesita.
+7D41|Oh, gracias. Qué bien huele.
+7D5E|Es precioso. Muchas gracias.
+7D7D|/Ella es la madre de Kenny de joven. Y el niño que espera es Kenny Nichols.
+7DD2|Parece que ella os ha ayudado.
+7DEF|No es nada. Pero qué alegría que estén bien...
+7E14|Mientras ella contempla el ramo, aprovecháis para salir.
+7E41|No salgan todavía; descansen en la cama, que les va a sentar mal.
+7E7A|Es la casa familiar de Kenny Nichols. Aunque él todavía no ha nacido.
+7EB7|Es la casa de antes. En 1916 aquí vivía Kenny.
+7EF4|¿Qué pasa? Ah, son ustedes.
+7F15|Es una casa muy bien cuidada.
+7F30|Es Liza Nichols. Tiene aire de joven ama de casa.
+7F5F|Hay una mujer con la barriga muy abultada.
+7F7C|Adelante...
+7F89|Todo está muy tranquilo. Se ven un rancho y una casa, y el camino sigue hacia la colina.
+7FC6|El camino sigue hacia el norte y el oeste. A lo lejos se ve una colina.
+7FFB|Parece el granero del rancho.
+8012|Hay un gran rancho. Es donde dentro de sesenta años se construirá el laboratorio del doctor.
+804F|Hombre, es un rancho.
+8068|Crece la hierba para el ganado.
+807D|Es un rancho de campo muy tranquilo.
+809C|Todo está muy tranquilo. El gran prado de la izquierda es precioso.
+80D7|Desde aquí se ve el pie de la colina. A la izquierda hay un prado.
+8112|Está la casa blanca que viste una vez.
+812F|/Hay una casa que te resulta familiar. Si no te equivocas, es la que estaba al oeste del laboratorio del doctor en 1945. Sigue igual que cuando la viste, tranquila y silenciosa. Aquella vez una anciana distinguida te regaló un reloj. Lo raro es que en 1916 no estaba aquí...
+8220|Todo lo que alcanza la vista es pradera. La brisa es muy agradable.
+8255|¡Vaya! El reloj está brillando.
+8270|Es la casa que en 1945 estaba al oeste del laboratorio del doctor.
+82A5|/Qué extraño. Es la casa que en 1945 estaba al oeste del laboratorio del doctor. La puerta y las ventanas son iguales. ¿Cómo puede ser?
+8320|/Está igual que cuando la visitaste en 1945. La forma de la puerta, y hasta los arañazos y las manchas, parecen los mismos.
+8381|/«He venido a llevarles de vuelta. Todavía les queda una misión importante.» Continúa con voz dulce: «La historia los necesita. Es importante para el futuro. En nuestra época, al doctor Elgar se le llama el padre de la ciencia moderna.
+8476|/Como saben, murió en 1945. Pero los resultados de su investigación se confiaron a dos periodistas. Esos dos defendieron fielmente, por la paz, la voluntad del doctor. Guardaron silencio. Esperaron hasta el día en que no hubiera guerras en el mundo.
+856B|/Ese día llegó por fin cincuenta y ocho años después de la muerte del doctor. Para entonces los dos ya eran mayores, pero su voluntad la había heredado su hija. La voluntad del doctor se respetó hasta el final. Ya lo habrán entendido: esos dos periodistas son ustedes.
+8660|/Tienen que volver. El futuro ya está decidido... Ah, sí, y una cosa más: les voy a enseñar algo bonito.» Y abre despacio la mano que tenía cerrada. Era un collar exactamente igual que el que lleva Jerry.
+8751|/Jerry coge el collar y lo abre. Al ver lo que hay dentro, se queda atónita. ¡También ahí salen May y Jerry, juntas y sonrientes! No era un collar igual: era el mismo.
+8812|/«Me llamo Ilsa Stevens. Ese colgante es un recuerdo de mi difunta madre. ¿Lo entienden? Yo soy la hija de esos dos periodistas.» Y añade sonriendo: «¿Cómo debería saludarles...? Encantada... papá, mamá.» En ese momento, desde la habitación de al lado, llega
+8907|/una leve vibración y un ruido. Los dos os volvéis sorprendidos, y ella dice: «No se preocupen. Salgan fuera. Han vuelto a su época. Yo también tengo que volver ya... 2013 es una época muy buena.» Cuando ibais a salir por la puerta, os detiene
+89FC|/y dice: «No se olviden: llámenme Ilsa. Me gusta mucho este nombre.» Y mientras lo dice, os guiña un ojo.
+8A77|/Qué alegría volver a verlos... Ya sé que están sorprendidos; se lo explicaré. Antes quiero enseñarles algo. Pasen a esa habitación, por favor...
+8B0D|Estás dentro de la casa. Una anciana distinguida está sentada en una silla de ruedas.
+8B42|Es la habitación del fondo. Delante tienes una gran máquina.
+8B75|/¡Ah! Aquí también hay una máquina como la del doctor. Los detalles son distintos, más aerodinámicos, pero no cabe duda de que es la misma máquina. ¿Qué significa esto?
+8C11|/La máquina del doctor era un remiendo de chapas de hierro; esta, en cambio, es aerodinámica y muy elegante. Todas sus piezas están fabricadas con gran precisión; parece que esta máquina no es de esta época. Pero entonces, ¿de dónde ha salido?
+8CFC|La bobina también es más pequeña; se nota el progreso.
+8D29|Tiene un asiento como el de un avión.
+8D54|Se ven muchos aparatos y un asiento elegante.
+8D7F|Puede ser peligroso. Esperemos a ver qué pasa.
+8DA6|Hay una máquina igual que la del doctor que viste antes.
+8DCF|/Estás cerca de la cima. Es el sitio adonde saliste despedido desde este mismo lugar en 1916, y donde te quedaste inconsciente.
+8E2C|Hay unos cuantos árboles. Nada más.
+8E51|El camino sube hasta la cima. Hace un día muy agradable.
+8E88|/¡Vaya! Aquí están los documentos que te dio el doctor. Seguramente se cayeron cuando os rescataron.
+8EE7|/Cuando ustedes se marcharon, él me lo contó todo. Pero hay una cosa que me oculta. Me dijo que solo le quedaban treinta años de vida, pero que quería casarse conmigo. Qué tonto. Le contesté que el futuro ya está decidido.
+8FD6|/Es lo que él dice siempre. Dicen que conocer el futuro hace infeliz a la gente. Pero yo sé lo que intenta ocultarme: que yo moriré de una enfermedad antes que él. Él también lo sabe, claro. Pero no sabe que yo lo sé.
+90CB|/Lo de «me queda poca vida, pero cásate conmigo» es en realidad lo que yo debería decirle. Él miente creyendo que yo no lo sé. Es una mentira que demuestra cuánto me quiere. ¡Ay, qué mentira tan tierna! Lo quiero con toda mi alma. Que el futuro esté decidido
+91C0|/me parece maravilloso. Permítanme darles las gracias de todo corazón. Soy muy feliz. Me tranquiliza saber que mi hija, a la que aún no conozco, tiene amigos como ustedes. Cuando vuelvan a su época y la vean, cuéntenle nuestra historia de amor.
+92B5|/Por favor, cuiden de mi hija. Marsha Elgar. 15 de junio de 1916.
+930A|/«¿Lo de llamarla Ilsa fue idea tuya?» «¡Pues claro! ¿Has visto Casablanca? Sí, hombre, la película que ganó el Óscar, con Ingrid Bergman. La vi tres veces. La Ilsa Lund que interpretaba ella era maravillosa.
+93FB|/Siempre la admiré. Me prometí que si algún día tenía una hija, la llamaría Ilsa. Bonito, ¿verdad? Si hasta entré en la empresa por el nombre. Aunque si digo que fui yo quien le puso nombre a la empresa, nadie me creerá.
+94DE|/Bueno, ahora vamos a estar muy ocupados. Tienes que conocer a mis padres. Luego, la boda. ¿Dónde viviremos? También hay que buscar casa... Tendría que haberle preguntado más cosas a Ilsa.»
+9572|/«¡Eh! Es verdad, Roy. Todavía no te he oído pedirme que me case contigo. Que ya esté decidido no es excusa para saltártelo. ¿Entendido?» «Sabiendo el futuro así, cuesta declararse. Me da vergüenza.» «¡No! Si no te declaras de forma romántica, no me caso.
+9663|Que cambiar el futuro trae consecuencias terribles... ¡Que te quede claro!»
+969C|                        THE END
+96BF|/          Thanks for your ADVENTURE MIND./             We hope to see you again./                #3 AS TIME GOES BY./              «A Casablanca, con amor»
+979F|/                  THINKING RABBIT/               HIROYUKI IMABAYASHI/                 MASAHARU OHNO/                MATSUHIRO OHNO
+9880|/                 SHINKICHI ABE/                 HITOMI KAMASU/                  AKIRA YONEDA/              KATSUHIKO SADAMOTO
+9967|/               HIROTO NAKAMURA/                JYUNKO TAKEDA/                  MIDORI WADA/                      *
+9A3E|/Epílogo. Al volver a la empresa, los dos buscasteis enseguida el retrato. Pero no encontrasteis ni el retrato ni, por si acaso, nada parecido en los viejos archivos de la empresa. Además, según esos archivos, dos años después de fundar la empresa, Kenny
+9B33|/cedió la presidencia a un subordinado y dejó la empresa; a partir de ahí, los archivos no vuelven a nombrarlo. Lo único que averiguasteis es que, por la mayoría de acciones que seguía teniendo, si estaba vivo, el control de la empresa aún era suyo, y que veintiocho años de dividendos
+9C28|/con sus intereses sumaban una cantidad enorme. ¿Adónde habría ido, dejando atrás honores y fortuna? Si vivía, tendría sesenta años. «¿Dónde estará? No creo que sea de los que rompen una promesa», le dijo Jerry a Roy.
+9D19|/«Seguro que le pasó algo...» «¡Qué pena! Podría haber llegado a vicepresidenta de golpe.» «¿Qué más da? A mí me basta con lo nuestro.» «Qué bonito. A mí también. ¡Es que solo quería mangonear a ese pesado del redactor jefe!»
+9E08|/«Vaya, vaya. ¿Tu sueño es mangonear a los hombres? Qué futuro me espera.» «Tranquilo, no te preocupes: te mangonearé con cariño.»
+9E7F|  
+9E82|.........epílogo
+9EA1|/Más o menos a esa misma hora, en la acera de Main Street, a unas tres manzanas del Daily Casablanca, caminaba un hombre mirando a todas partes. Llevaba un traje tan anticuado y estrafalario que la gente se volvía a mirarlo, y una gran cartera de cuero como las que ya nadie usa.
+9F96|/En la cartera llevaba las acciones que acababa de entregarle un empleado del Bank of Chicago y nada menos que doscientos mil dólares...        #AS TIME GOES BY.
+A04E|/¿Qué te ha parecido esta obra? ¿Has leído la carta de Marsha? No la que le diste al doctor Elgar, ¿eh? Y ahora, una pequeña explicación final. Después de aquello, Kenny se enteró por el doctor Elgar de que Jerry y Roy venían de 1945. Así que pensó en fundar la
+A13F|/Casablanca en Chicago y luego seguirlos él también hasta 1945. Según el doctor, la Casablanca sería el periódico más importante de Chicago, y si dejaba sus acciones y su dinero en el banco, podría vivir en el futuro solo con los dividendos y los intereses.
+A22E|/Pero sobre todo, como periodista, quería ver con sus propios ojos cómo sería el mundo treinta años después. Le pidió al doctor que, antes de destruir la máquina, enviara a 1945 al Kenny que ya hubiera fundado la empresa. Al final, enviaron al Kenny de dos años más tarde.
+A321|/Por supuesto, el Kenny de dos años más tarde ya lo sabía, así que lo preparó todo bien. Su único error fue ponerse el traje heredado de su padre. Ese traje, del que su padre tanto presumía en vida, era una prenda de lujo a la moda de su época, pero...
+A40A|/¡Ah, sí! Se me olvidaba algo importante. Tras la muerte del doctor Elgar, May Elgar, que ya no le servía de nada al ejército, volvió sana y salva. Lo que consoló su soledad por la pérdida de su padre fueron las historias de la joven Marsha que le contaba Kenny.
+A4F7|/¡Vaya! Ya hemos llegado al final. El romance de estos dos, en otra ocasión...

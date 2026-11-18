@@ -1,0 +1,7 @@
+originales/*.dsk
+salida/
+src/ext.bin
+src/ext.sym
+src/cadenas.inc
+src/id.inc
+__pycache__/
