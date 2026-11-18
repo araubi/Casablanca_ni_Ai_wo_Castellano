@@ -33,7 +33,7 @@ def pasos(filas):
     return t
 E=[]
 E.append(P('A Casablanca, con amor','t'))
-E.append(P('<i>Casablanca ni Ai wo</i> (Thinking Rabbit, 1988, MSX2) · Guía de la traducción al castellano · araubi · versión 1.0','st'))
+E.append(P('<i>Casablanca ni Ai wo</i> (Thinking Rabbit, 1988, MSX2) · Guía de la traducción al castellano · araubi · versión 1.1','st'))
 tit=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),'docs','capturas','titulo.png')
 if os.path.exists(tit): E.append(Image(tit,width=120*mm,height=90*mm)); E.append(Spacer(1,4))
 E.append(P('Esta guía lleva la partida de principio a fin con las órdenes de la traducción. Se ha jugado entera en openMSX '

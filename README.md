@@ -22,7 +22,7 @@ solo dos **parches IPS**, uno por disco, y las fuentes para rehacerlos.
 
 | Carpeta | Contenido |
 |---|---|
-| `releases/` | `Casablanca_ES_v1.0_disco1.ips` y `Casablanca_ES_v1.0_disco2.ips` |
+| `releases/` | `Casablanca_ES_v1.1_disco1.ips` y `Casablanca_ES_v1.1_disco2.ips` |
 | `tools/` | Scripts en Python que construyen los discos traducidos desde los originales |
 | `src/` | `ext.asm`: ampliación del intérprete (Z80, pasmo) |
 | `trad/` | Textos en castellano: mensajes, vocabulario y objetos |
@@ -46,14 +46,14 @@ Con los IPS aplicados:
 ## Cómo aplicar el parche
 
 Con cualquier programa de IPS (Lunar IPS, Floating IPS…), aplica cada parche a su disco:
-`Casablanca_ES_v1.0_disco1.ips` al disco 1 y `Casablanca_ES_v1.0_disco2.ips` al disco 2.
+`Casablanca_ES_v1.1_disco1.ips` al disco 1 y `Casablanca_ES_v1.1_disco2.ips` al disco 2.
 Comprueba antes las sumas SHA-1 de la tabla.
 
 También con Python 3, sin instalar nada:
 
 ```
-python3 tools/ips.py aplica "Casablanca (...)(Disk 1 of 2).dsk" releases/Casablanca_ES_v1.0_disco1.ips disco1_es.dsk
-python3 tools/ips.py aplica "Casablanca (...)(Disk 2 of 2).dsk" releases/Casablanca_ES_v1.0_disco2.ips disco2_es.dsk
+python3 tools/ips.py aplica "Casablanca (...)(Disk 1 of 2).dsk" releases/Casablanca_ES_v1.1_disco1.ips disco1_es.dsk
+python3 tools/ips.py aplica "Casablanca (...)(Disk 2 of 2).dsk" releases/Casablanca_ES_v1.1_disco2.ips disco2_es.dsk
 ```
 
 ## Cómo jugar
@@ -121,6 +121,12 @@ Otras herramientas: `tools/reglas2.py disco2.dsk` vuelca las reglas del juego en
 legible; `tools/intparse.py disco2.dsk` comprueba el guion; `tools/genera_titulo.py` rehace
 `font/titulo_es.png` (necesita Pillow y GNU FreeFont); `tools/pdf_solucion.py` genera la
 solución en PDF (necesita reportlab y las fuentes DejaVu).
+
+## Historial
+
+- **v1.1** (18-11-2026): pantalla de título en castellano y panel derecho separado del dibujo.
+  Solo cambia el disco 1; el IPS del disco 2 es el mismo que en la v1.0.
+- **v1.0** (18-11-2026): primera versión publicada.
 
 ## Créditos
 
