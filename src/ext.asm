@@ -251,5 +251,32 @@ ec_n:	cp ';'			; en el teclado japonés no hay Ñ: ; hace de Ñ
 ec_enye: ld a,0A5h
 	ret
 
+; --- panel derecho: X+4 para que no toque el dibujo (sustituye el principio de 25C9h) ---
+; HL = X en píxeles, DE = Y, BC = búfer del glifo
+ext_x:
+	push af
+	ld a,d
+	or a
+	jr nz,ex_no		; Y >= 256
+	ld a,e
+	cp 150
+	jr nc,ex_no		; ventana de texto: no se toca
+	ld a,h
+	or a
+	jr z,ex_no		; X < 256
+	ld a,l
+	cp 90h
+	jr c,ex_no		; X < 400
+	inc hl
+	inc hl
+	inc hl
+	inc hl
+ex_no:	pop af
+	push hl
+	ld l,c
+	ld h,b
+	ld (0F562h),hl
+	jp 25CFh
+
 fin_ext:
 

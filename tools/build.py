@@ -20,6 +20,9 @@ def main(p1,p2,out,textos=True):
     com,S=parche_runadv.parchea(D1.lee('RUNADV.COM'),id_relleno,*([[l or parche_runadv.LARGOS[i] for i,l in enumerate(largos)]] if textos else []))
     D1.escribe('RUNADV.COM',com)
     D1.escribe('KANJI.FNT',kanji_fnt(D1.lee('KANJI.FNT')))
+    import titulo
+    t=titulo.aplica(D1.lee('PIC101.MSX')); assert len(t)<0x36B0
+    D1.escribe('PIC101.MSX',t)
     os.makedirs(out,exist_ok=True)
     open(os.path.join(out,'Casablanca_ES_disco1.dsk'),'wb').write(D1.imagen())
     open(os.path.join(out,'Casablanca_ES_disco2.dsk'),'wb').write(D2.imagen())

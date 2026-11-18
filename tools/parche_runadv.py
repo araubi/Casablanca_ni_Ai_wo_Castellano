@@ -110,6 +110,8 @@ def parchea(com,id_relleno,largos=LARGOS):
     p(0x0DDB,'CD320F',bytes([0xCD])+w16(S['EXT_BUSCA']))
     # 5b) minúsculas sin CAPS y Ñ
     p(0x16EB,'CDA525',bytes([0xCD])+w16(S['EXT_CHGET']))
+    # 5c) panel derecho separado del dibujo
+    p(0x25C9,'E5696022',bytes([0xC3])+w16(S['EXT_X'])+b'\0')
     # 6) listas de objetos
     p(0x0532,'CD8E25',bytes([0xCD])+w16(S['EXT_OBJ_SALA']))
     p(0x056B,'82C620','000000')

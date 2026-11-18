@@ -8,6 +8,7 @@ aventura conversacional de **Thinking Rabbit** para **MSX2** publicada en 1988 e
 tiempo hasta 1916 para aclarar el caso. Se juega escribiendo órdenes («LLAMA A LA PUERTA»,
 «COGE LA NAVAJA»), y ahora en castellano.
 
+![Título](docs/capturas/titulo.png)
 ![El mayordomo](docs/capturas/mayordomo.png)
 ![El laboratorio](docs/capturas/laboratorio.png)
 ![La biblioteca](docs/capturas/biblioteca.png)
@@ -25,7 +26,7 @@ solo dos **parches IPS**, uno por disco, y las fuentes para rehacerlos.
 | `tools/` | Scripts en Python que construyen los discos traducidos desde los originales |
 | `src/` | `ext.asm`: ampliación del intérprete (Z80, pasmo) |
 | `trad/` | Textos en castellano: mensajes, vocabulario y objetos |
-| `font/` | Fuente de C-BIOS de la que sale la fuente de la traducción |
+| `font/` | Fuente de C-BIOS de la que sale la fuente de la traducción y el título en castellano |
 | `docs/` | Solución en PDF, lista de órdenes, notas técnicas y curiosidades |
 
 ## Discos necesarios
@@ -39,7 +40,7 @@ Con los IPS aplicados:
 
 | Disco traducido | SHA-1 |
 |---|---|
-| 1 | `bdca80827d47d4cec60e6990642f8c9abb6edf41` |
+| 1 | `73079f9a9074ad2c43f5a2fd8da6c7a0b88b2149` |
 | 2 | `46872a364896e1ec93ed56c57a02bbd999498cb4` |
 
 ## Cómo aplicar el parche
@@ -94,7 +95,8 @@ ACABA, DUERME, DESCANSA, BESA, PRENDE, LLEVA.
   palabras de relleno que se ignoran y listas de objetos con artículo («Llevas un diario,
   un collar.»).
 - Entrada en minúsculas (el original las convertía en kana) y Ñ.
-- Panel derecho y textos del intérprete en castellano.
+- Pantalla de título en castellano («A Casablanca, con amor. El asesino que cruzó el tiempo»).
+- Panel derecho y textos del intérprete en castellano, con el panel separado unos píxeles del dibujo.
 
 Detalles en [docs/NOTAS_TECNICAS.md](docs/NOTAS_TECNICAS.md) y
 [docs/CURIOSIDADES.md](docs/CURIOSIDADES.md).
@@ -110,12 +112,14 @@ python3 tools/ips.py crea disco2_original.dsk salida/Casablanca_ES_disco2.dsk di
 ```
 
 `build.py` comprueba el SHA-1 de los discos originales, sustituye dentro del disco 1
-`RUNADV.COM` (intérprete parcheado + `src/ext.asm`) y `KANJI.FNT` (fuente nueva), y dentro del
+`RUNADV.COM` (intérprete parcheado + `src/ext.asm`), `KANJI.FNT` (fuente nueva) y
+`PIC101.MSX` (título con `font/titulo_es.png`, que vuelve a comprimir `tools/pic.py`), y dentro del
 disco 2 `CASAB.TBL`, `CASAB.MSG` y `CASAB.INT` (vocabulario, mensajes y guion). El resultado
 coincide byte a byte con los discos de la tabla y con los IPS de `releases/`.
 
 Otras herramientas: `tools/reglas2.py disco2.dsk` vuelca las reglas del juego en texto
-legible; `tools/intparse.py disco2.dsk` comprueba el guion; `tools/pdf_solucion.py` genera la
+legible; `tools/intparse.py disco2.dsk` comprueba el guion; `tools/genera_titulo.py` rehace
+`font/titulo_es.png` (necesita Pillow y GNU FreeFont); `tools/pdf_solucion.py` genera la
 solución en PDF (necesita reportlab y las fuentes DejaVu).
 
 ## Créditos
@@ -123,12 +127,12 @@ solución en PDF (necesita reportlab y las fuentes DejaVu).
 - *Casablanca ni Ai wo* © 1988 Thinking Rabbit.
 - Traducción, dirección y pruebas: **araubi**.
 - Desarrollado con Claude (Anthropic).
-- Fuente basada en la de [C-BIOS](http://cbios.sourceforge.net/).
+- Fuente basada en la de [C-BIOS](http://cbios.sourceforge.net/). Título dibujado con GNU FreeFont (FreeSerif).
 
 ## Licencia y avisos
 
 - Herramientas y código propio (`tools/`, `src/`): **MIT** ([LICENSE](LICENSE)).
-- Textos de la traducción (`trad/`), documentación (`docs/`, este README) y parches IPS:
+- Textos de la traducción (`trad/`), título (`font/titulo_es.png`), documentación (`docs/`, este README) y parches IPS:
   **CC BY-NC-SA 4.0** ([LICENSE-CC](LICENSE-CC)).
 - `font/cbios_font.bin`: licencia BSD de 2 cláusulas de C-BIOS
   ([font/LICENSE-CBIOS.txt](font/LICENSE-CBIOS.txt)).
