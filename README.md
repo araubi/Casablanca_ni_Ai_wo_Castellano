@@ -8,7 +8,11 @@ aventura conversacional de **Thinking Rabbit** para **MSX2** publicada en 1988 e
 tiempo hasta 1916 para aclarar el caso. Se juega escribiendo órdenes («LLAMA A LA PUERTA»,
 «COGE LA NAVAJA»), y ahora en castellano.
 
-![Título](docs/titulo.png) ![Juego](docs/juego_llamar_puerta.png)
+![El mayordomo](docs/capturas/mayordomo.png)
+![El laboratorio](docs/capturas/laboratorio.png)
+![La biblioteca](docs/capturas/biblioteca.png)
+
+*Capturas de la traducción en openMSX (Sony HB-F900).*
 
 ## Qué hay aquí
 
